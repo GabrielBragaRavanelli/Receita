@@ -1,0 +1,1 @@
+Uma página de uma receita de omelete. A ideia de página foi retirada do https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm, na qual tem diversas trabalhos de html,css, javascipt e outros para serem realizados. O trabalho foi feito em 3/4 dias como forma de treino e aprendizado. 
